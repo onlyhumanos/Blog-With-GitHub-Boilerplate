@@ -26,7 +26,7 @@ author = "OnlyHumanOS"
 email = "jizenghui@outlook.com"
 author_homepage = "https://www.imalan.cn"
 description = "Our greatest freedom is the freedom to choose our attitude。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['Maverick', 'OnlyhumanOS', '进击的普通人', 'blog']
 language = 'zh-CN'
 #external_links = [
     {
