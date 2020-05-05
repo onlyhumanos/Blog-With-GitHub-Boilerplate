@@ -21,7 +21,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "进击的普通人"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2020-05-04T17:04+08:00"
 author = "OnlyHumanOS"
 email = "jizenghui@outlook.com"
 author_homepage = "https://www.imalan.cn"
