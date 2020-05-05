@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/" #如果为其他仓库，改为"/Blog-With-GitHub-Boilerplate/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
