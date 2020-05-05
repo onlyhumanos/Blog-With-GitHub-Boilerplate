@@ -28,7 +28,7 @@ author_homepage = "https://www.imalan.cn"
 description = "Our greatest freedom is the freedom to choose our attitude。"
 key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
 language = 'zh-CN'
-external_links = [
+#external_links = [
     {
         "name": "Maverick",
         "url": "https://github.com/AlanDecode/Maverick",
@@ -58,7 +58,7 @@ nav = [
     }
 ]
 
-social_links = [
+#social_links = [
     {
         "name": "Twitter",
         "url": "https://twitter.com/AlanDecode",
