@@ -2,9 +2,9 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/05/04 17:04:54
 status: publish
-author: AlanDecode
+author: OnlyHumanOS
 categories: 
   - Maverick
   - Dev
@@ -17,6 +17,6 @@ tags:
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
+Email: jizenghui#outlook.com (replace # with @)
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+Telegram：[OnlyHumanOS](https://t.me/onlyhumanos)
