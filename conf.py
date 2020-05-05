@@ -35,7 +35,7 @@ external_links = [
         "brief": "🏄‍ Go My Own Way."
     },
     {
-        "name": "三無計劃",
+        "name": "三無",
         "url": "https://www.imalan.cn",
         "brief": "熊猫小A的主页。"
     }
@@ -71,7 +71,7 @@ social_links = [
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/1805119341/",
         "icon": "gi gi-weibo"
     }
 ]
