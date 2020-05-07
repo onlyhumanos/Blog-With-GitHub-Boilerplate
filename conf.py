@@ -59,14 +59,14 @@ nav = [
 ]
 
 social_links = [
-    {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
+    #{
+    #    "name": "Twitter",
+    #    "url": "https://twitter.com/AlanDecode",
+    #    "icon": "gi gi-twitter"
+    #},
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/onlyhumanos",
         "icon": "gi gi-github"
     },
     {
