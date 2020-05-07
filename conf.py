@@ -29,15 +29,15 @@ description = "Our greatest freedom is the freedom to choose our attitude."
 key_words = ['Maverick', 'OnlyhumanOS', '进击的普通人', 'blog']
 language = 'zh-CN'
 external_links = [
+    #{
+    #    "name": "Maverick",
+    #    "url": "https://github.com/AlanDecode/Maverick",
+    #    "brief": "🏄‍ Go My Own Way."
+    #},
     {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "三無",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "Matters",
+        "url": "https://matters.news/@whynot",
+        "brief": "进击的普通人Matters主页。"
     }
 ]
 nav = [
